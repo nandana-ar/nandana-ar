@@ -36,6 +36,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandana-ar&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 ---
 
 <h4 align="center">🌐 Connect with me:</h4>
